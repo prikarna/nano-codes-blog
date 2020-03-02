@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nuc120_UsbSkel", "Nuc120_UsbSkel\Nuc120_UsbSkel.vcproj", "{14BC2F6A-F1B4-4CC0-B0F3-B32DD662DC8F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stm32f103_UsbSkel", "Stm32f103_UsbSkel\Stm32f103_UsbSkel.vcproj", "{56DEB881-8392-4248-AFA6-9EB04C9BC552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BC2F6A-F1B4-4CC0-B0F3-B32DD662DC8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14BC2F6A-F1B4-4CC0-B0F3-B32DD662DC8F}.Debug|Win32.Build.0 = Debug|Win32
+		{14BC2F6A-F1B4-4CC0-B0F3-B32DD662DC8F}.Release|Win32.ActiveCfg = Release|Win32
+		{14BC2F6A-F1B4-4CC0-B0F3-B32DD662DC8F}.Release|Win32.Build.0 = Release|Win32
+		{56DEB881-8392-4248-AFA6-9EB04C9BC552}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56DEB881-8392-4248-AFA6-9EB04C9BC552}.Debug|Win32.Build.0 = Debug|Win32
+		{56DEB881-8392-4248-AFA6-9EB04C9BC552}.Release|Win32.ActiveCfg = Release|Win32
+		{56DEB881-8392-4248-AFA6-9EB04C9BC552}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Visual C++"
+	Version="9,00"
+	Name="Mini"
+	ProjectGUID="{942AD14D-29EF-40D0-87A5-4EB068A76F2E}"
+	Keyword="MakeFileProj"
+	TargetFrameworkVersion="196613"
+	>
+	<Platforms>
+		<Platform
+			Name="Win32"
+		/>
+	</Platforms>
+	<ToolFiles>
+	</ToolFiles>
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="nmake /nologo _DEBUG=1 all"
+				ReBuildCommandLine="nmake /nologo _DEBUG=1 rebuild"
+				CleanCommandLine="nmake /nologo _DEBUG=1 clean"
+				Output="Mini.bin"
+				PreprocessorDefinitions="__GNUC__;_DEBUG"
+				IncludeSearchPath="&quot;$(ProjectDir)..\DkSys&quot;"
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="Release|Win32"
+			OutputDirectory="$(ConfigurationName)"
+			IntermediateDirectory="$(ConfigurationName)"
+			ConfigurationType="0"
+			>
+			<Tool
+				Name="VCNMakeTool"
+				BuildCommandLine="nmake /nologo all"
+				ReBuildCommandLine="nmake /nologo rebuild"
+				CleanCommandLine="nmake /nologo clean"
+				Output="Mini.bin"
+				PreprocessorDefinitions="__GNUC__;NDEBUG"
+				IncludeSearchPath="&quot;$(ProjectDir)..\DkSys&quot;"
+				ForcedIncludes=""
+				AssemblySearchPath=""
+				ForcedUsingAssemblies=""
+				CompileAsManaged=""
+			/>
+		</Configuration>
+	</Configurations>
+	<References>
+	</References>
+	<Files>
+		<Filter
+			Name="Source Files"
+			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
+			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
+			>
+			<File
+				RelativePath=".\Main.c"
+				>
+			</File>
+		</Filter>
+		<Filter
+			Name="Header Files"
+			Filter="h;hpp;hxx;hm;inl;inc;xsd"
+			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
+			>
+			<File
+				RelativePath="..\DkSys\DkGpio.h"
+				>
+			</File>
+			<File
+				RelativePath="..\DkSys\DkRcc.h"
+				>
+			</File>
+			<File
+				RelativePath="..\DkSys\DkSys.h"
+				>
+			</File>
+		</Filter>
+		<Filter
+			Name="Resource Files"
+			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav"
+			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
+			>
+		</Filter>
+		<File
+			RelativePath=".\Make.bat"
+			>
+		</File>
+		<File
+			RelativePath=".\Makefile"
+			>
+		</File>
+		<File
+			RelativePath=".\Mini.ld"
+			>
+		</File>
+		<File
+			RelativePath=".\readme.txt"
+			>
+		</File>
+	</Files>
+	<Globals>
+	</Globals>
+</VisualStudioProject>

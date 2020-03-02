@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GamePad_DtNuc120", "GamePad_DtNuc120\GamePad_DtNuc120.vcproj", "{9CF8DAF1-9E6D-47A9-9267-5D59852F52BD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GamePad_Stm32f103", "GamePad_Stm32f103\GamePad_Stm32f103.vcproj", "{5AD3D5D3-E081-4897-A514-4A54D5FC8B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF8DAF1-9E6D-47A9-9267-5D59852F52BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9CF8DAF1-9E6D-47A9-9267-5D59852F52BD}.Debug|Win32.Build.0 = Debug|Win32
+		{9CF8DAF1-9E6D-47A9-9267-5D59852F52BD}.Release|Win32.ActiveCfg = Release|Win32
+		{9CF8DAF1-9E6D-47A9-9267-5D59852F52BD}.Release|Win32.Build.0 = Release|Win32
+		{5AD3D5D3-E081-4897-A514-4A54D5FC8B7D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AD3D5D3-E081-4897-A514-4A54D5FC8B7D}.Debug|Win32.Build.0 = Debug|Win32
+		{5AD3D5D3-E081-4897-A514-4A54D5FC8B7D}.Release|Win32.ActiveCfg = Release|Win32
+		{5AD3D5D3-E081-4897-A514-4A54D5FC8B7D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

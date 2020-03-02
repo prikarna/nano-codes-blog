@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mini", "Mini\Mini.vcproj", "{35BE5C55-57BE-442B-ADE4-3B91AE830EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BE5C55-57BE-442B-ADE4-3B91AE830EED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35BE5C55-57BE-442B-ADE4-3B91AE830EED}.Debug|Win32.Build.0 = Debug|Win32
+		{35BE5C55-57BE-442B-ADE4-3B91AE830EED}.Release|Win32.ActiveCfg = Release|Win32
+		{35BE5C55-57BE-442B-ADE4-3B91AE830EED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

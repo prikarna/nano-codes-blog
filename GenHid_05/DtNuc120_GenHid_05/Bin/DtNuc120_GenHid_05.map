@@ -1,0 +1,724 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                              D:\TMP\Usr\ccqBRKvg.o (__aeabi_uidiv)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (exit)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (__libc_init_array)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (memset)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+                              d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+ .text          0x00000000       0x60 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .data          0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .bss           0x00000000       0x1c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .init_array    0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .fini_array    0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .jcr           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+ .text          0x00000000       0x78 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccqBRKvg.o
+ .data          0x00000000        0x0 D:\TMP\Usr\ccqBRKvg.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccqBRKvg.o
+ .text.UaDumpMem
+                0x00000000       0x88 D:\TMP\Usr\ccqBRKvg.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccpl4fYq.o
+ .data          0x00000000        0x0 D:\TMP\Usr\ccpl4fYq.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccpl4fYq.o
+ .text.MemSet   0x00000000       0x4a D:\TMP\Usr\ccpl4fYq.o
+ .text.MemCopyToPaddedBuffer
+                0x00000000       0x6c D:\TMP\Usr\ccpl4fYq.o
+ .text.MemCopyFromPaddedBuffer
+                0x00000000       0x6e D:\TMP\Usr\ccpl4fYq.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccCaSWcG.o
+ .data          0x00000000        0x0 D:\TMP\Usr\ccCaSWcG.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccCaSWcG.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccpKw1v0.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccpKw1v0.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccoejbAp.o
+ .data          0x00000000        0x0 D:\TMP\Usr\ccoejbAp.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccoejbAp.o
+ .text          0x00000000        0x0 D:\TMP\Usr\cc7tOrbQ.o
+ .data          0x00000000        0x0 D:\TMP\Usr\cc7tOrbQ.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\cc7tOrbQ.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccELBfOm.o
+ .data          0x00000000        0x0 D:\TMP\Usr\ccELBfOm.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccELBfOm.o
+ .rodata        0x00000000       0x12 D:\TMP\Usr\ccELBfOm.o
+ .text.On_EpReg2
+                0x00000000       0x20 D:\TMP\Usr\ccELBfOm.o
+ .debug_info    0x00000000       0x8b D:\TMP\Usr\ccELBfOm.o
+ .debug_abbrev  0x00000000       0x66 D:\TMP\Usr\ccELBfOm.o
+ .debug_aranges
+                0x00000000       0x20 D:\TMP\Usr\ccELBfOm.o
+ .debug_ranges  0x00000000       0x10 D:\TMP\Usr\ccELBfOm.o
+ .debug_line    0x00000000       0x5d D:\TMP\Usr\ccELBfOm.o
+ .debug_str     0x00000000       0xfc D:\TMP\Usr\ccELBfOm.o
+ .comment       0x00000000       0x6f D:\TMP\Usr\ccELBfOm.o
+ .debug_frame   0x00000000       0x2c D:\TMP\Usr\ccELBfOm.o
+ .ARM.attributes
+                0x00000000       0x31 D:\TMP\Usr\ccELBfOm.o
+ .text          0x00000000        0x0 D:\TMP\Usr\cc9pzA6V.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\cc9pzA6V.o
+ .text          0x00000000        0x0 D:\TMP\Usr\ccosrMlB.o
+ .data          0x00000000        0x0 D:\TMP\Usr\ccosrMlB.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\ccosrMlB.o
+ .text          0x00000000        0x0 D:\TMP\Usr\cc7V9NVh.o
+ .data          0x00000000        0x0 D:\TMP\Usr\cc7V9NVh.o
+ .bss           0x00000000        0x0 D:\TMP\Usr\cc7V9NVh.o
+ .text.Spin     0x00000000       0x1c D:\TMP\Usr\cc7V9NVh.o
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x30 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x18 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf8 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x54 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+ .text.atexit   0x00000000       0x10 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x28 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x34 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xd4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x3c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+ .jcr           0x00000000        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+ .text          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+ .data          0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+ .bss           0x00000000        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+ .init          0x00000000        0x8 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+ .fini          0x00000000        0x8 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+ .ARM.attributes
+                0x00000000       0x1e d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00010000         xr
+SRAM             0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+
+.text           0x00000000     0x1db0
+ *(.eisr_vector .eisr_vector.*)
+ .eisr_vector   0x00000000        0x8 D:\TMP\Usr\cc7V9NVh.o
+                0x00000000                gHandlers
+ *(.text .text.*)
+ .text.UaInit   0x00000008       0x6c D:\TMP\Usr\ccqBRKvg.o
+                0x00000008                UaInit
+ .text.UaWriteChar
+                0x00000074       0x40 D:\TMP\Usr\ccqBRKvg.o
+                0x00000074                UaWriteChar
+ .text.UaWriteString
+                0x000000b4       0x88 D:\TMP\Usr\ccqBRKvg.o
+                0x000000b4                UaWriteString
+ .text.UaWriteNum
+                0x0000013c      0x100 D:\TMP\Usr\ccqBRKvg.o
+                0x0000013c                UaWriteNum
+ .text.UaWriteShort
+                0x0000023c       0x90 D:\TMP\Usr\ccqBRKvg.o
+                0x0000023c                UaWriteShort
+ .text.UaWriteHex
+                0x000002cc       0x90 D:\TMP\Usr\ccqBRKvg.o
+                0x000002cc                UaWriteHex
+ .text.UaWriteByte
+                0x0000035c       0x84 D:\TMP\Usr\ccqBRKvg.o
+                0x0000035c                UaWriteByte
+ .text.UaPrintf
+                0x000003e0      0x138 D:\TMP\Usr\ccqBRKvg.o
+                0x000003e0                UaPrintf
+ .text.MemCopy  0x00000518       0x4c D:\TMP\Usr\ccpl4fYq.o
+                0x00000518                MemCopy
+ .text.ClkSetSysClkToMaxSpeed
+                0x00000564      0x120 D:\TMP\Usr\ccCaSWcG.o
+                0x00000564                ClkSetSysClkToMaxSpeed
+ .text.ClkGetSysClk
+                0x00000684      0x108 D:\TMP\Usr\ccCaSWcG.o
+                0x00000684                ClkGetSysClk
+ .text.On_FloatDetInt
+                0x0000078c       0x6c D:\TMP\Usr\ccpKw1v0.o
+                0x0000078c                On_FloatDetInt
+ .text.On_BusInt
+                0x000007f8       0xe0 D:\TMP\Usr\ccpKw1v0.o
+                0x000007f8                On_BusInt
+ .text.On_BusReset
+                0x000008d8       0x98 D:\TMP\Usr\ccpKw1v0.o
+                0x000008d8                On_BusReset
+ .text.On_WakeUpInt
+                0x00000970       0x30 D:\TMP\Usr\ccpKw1v0.o
+                0x00000970                On_WakeUpInt
+ .text.On_StpInt
+                0x000009a0       0x9c D:\TMP\Usr\ccpKw1v0.o
+                0x000009a0                On_StpInt
+ .text.On_EpReg0Int
+                0x00000a3c       0x84 D:\TMP\Usr\ccpKw1v0.o
+                0x00000a3c                On_EpReg0Int
+ .text.On_EpReg1Int
+                0x00000ac0       0x84 D:\TMP\Usr\ccpKw1v0.o
+                0x00000ac0                On_EpReg1Int
+ .text.On_EpReg2Int
+                0x00000b44       0x20 D:\TMP\Usr\ccpKw1v0.o
+                0x00000b44                On_EpReg2Int
+ .text.On_EpReg3Int
+                0x00000b64       0x20 D:\TMP\Usr\ccpKw1v0.o
+                0x00000b64                On_EpReg3Int
+ .text.On_EpReg4Int
+                0x00000b84       0x20 D:\TMP\Usr\ccpKw1v0.o
+                0x00000b84                On_EpReg4Int
+ .text.On_EpReg5Int
+                0x00000ba4       0x20 D:\TMP\Usr\ccpKw1v0.o
+                0x00000ba4                On_EpReg5Int
+ .text.On_EpReg0_Std_GetStat
+                0x00000bc4       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000bc4                On_EpReg0_Std_GetStat
+ .text.On_EpReg0_Std_ClrFeat
+                0x00000be4       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000be4                On_EpReg0_Std_ClrFeat
+ .text.On_EpReg0_Std_SetFeat
+                0x00000c04       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000c04                On_EpReg0_Std_SetFeat
+ .text.On_EpReg0_Std_SetAddr
+                0x00000c24       0x44 D:\TMP\Usr\ccoejbAp.o
+                0x00000c24                On_EpReg0_Std_SetAddr
+ .text.On_EpReg0_Std_GetDesc_Dev
+                0x00000c68       0x30 D:\TMP\Usr\ccoejbAp.o
+                0x00000c68                On_EpReg0_Std_GetDesc_Dev
+ .text.On_EpReg0_Std_GetDesc_Config
+                0x00000c98       0x30 D:\TMP\Usr\ccoejbAp.o
+                0x00000c98                On_EpReg0_Std_GetDesc_Config
+ .text.On_EpReg0_Std_GetDesc_String
+                0x00000cc8       0x30 D:\TMP\Usr\ccoejbAp.o
+                0x00000cc8                On_EpReg0_Std_GetDesc_String
+ .text.On_EpReg0_Std_GetDesc_Intf
+                0x00000cf8       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000cf8                On_EpReg0_Std_GetDesc_Intf
+ .text.On_EpReg0_Std_GetDesc_EndPoint
+                0x00000d18       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000d18                On_EpReg0_Std_GetDesc_EndPoint
+ .text.On_EpReg0_Std_GetDesc_DevQlfy
+                0x00000d38       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000d38                On_EpReg0_Std_GetDesc_DevQlfy
+ .text.On_EpReg0_Std_GetDesc_OthSpeedCfg
+                0x00000d58       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000d58                On_EpReg0_Std_GetDesc_OthSpeedCfg
+ .text.On_EpReg0_Std_GetDesc_IntfPwr
+                0x00000d78       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000d78                On_EpReg0_Std_GetDesc_IntfPwr
+ .text.On_EpReg0_Std_GetDesc_Otg
+                0x00000d98       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000d98                On_EpReg0_Std_GetDesc_Otg
+ .text.On_EpReg0_Std_GetDesc_Debug
+                0x00000db8       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000db8                On_EpReg0_Std_GetDesc_Debug
+ .text.On_EpReg0_Std_GetDesc_IntfAssoc
+                0x00000dd8       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000dd8                On_EpReg0_Std_GetDesc_IntfAssoc
+ .text.On_EpReg0_Std_GetDesc
+                0x00000df8       0xa4 D:\TMP\Usr\ccoejbAp.o
+                0x00000df8                On_EpReg0_Std_GetDesc
+ .text.On_EpReg0_Std_SetDesc
+                0x00000e9c       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000e9c                On_EpReg0_Std_SetDesc
+ .text.On_EpReg0_Std_GetConfig
+                0x00000ebc       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000ebc                On_EpReg0_Std_GetConfig
+ .text.On_EpReg0_Std_SetConfig
+                0x00000edc       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000edc                On_EpReg0_Std_SetConfig
+ .text.On_EpReg0_Std_GetIntf
+                0x00000efc       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000efc                On_EpReg0_Std_GetIntf
+ .text.On_EpReg0_Std_SetIntf
+                0x00000f1c       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000f1c                On_EpReg0_Std_SetIntf
+ .text.On_EpReg0_Std_SyncFrame
+                0x00000f3c       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000f3c                On_EpReg0_Std_SyncFrame
+ .text.On_EpReg0_StdReq
+                0x00000f5c       0x9c D:\TMP\Usr\ccoejbAp.o
+                0x00000f5c                On_EpReg0_StdReq
+ .text.On_EpReg0_ClsReq
+                0x00000ff8       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00000ff8                On_EpReg0_ClsReq
+ .text.On_EpReg0_VendReq
+                0x00001018       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00001018                On_EpReg0_VendReq
+ .text.On_EpReg0_RsvdReq
+                0x00001038       0x20 D:\TMP\Usr\ccoejbAp.o
+                0x00001038                On_EpReg0_RsvdReq
+ .text.On_EpReg1_Std_GetStat
+                0x00001058       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001058                On_EpReg1_Std_GetStat
+ .text.On_EpReg1_Std_ClrFeat
+                0x00001078       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001078                On_EpReg1_Std_ClrFeat
+ .text.On_EpReg1_Std_SetFeat
+                0x00001098       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001098                On_EpReg1_Std_SetFeat
+ .text.On_EpReg1_Std_SetAddr
+                0x000010b8       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000010b8                On_EpReg1_Std_SetAddr
+ .text.On_EpReg1_Std_GetDesc_Dev
+                0x000010d8       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000010d8                On_EpReg1_Std_GetDesc_Dev
+ .text.On_EpReg1_Std_GetDesc_Config
+                0x000010f8       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000010f8                On_EpReg1_Std_GetDesc_Config
+ .text.On_EpReg1_Std_GetDesc_String
+                0x00001118       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001118                On_EpReg1_Std_GetDesc_String
+ .text.On_EpReg1_Std_GetDesc_Intf
+                0x00001138       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001138                On_EpReg1_Std_GetDesc_Intf
+ .text.On_EpReg1_Std_GetDesc_EndPoint
+                0x00001158       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001158                On_EpReg1_Std_GetDesc_EndPoint
+ .text.On_EpReg1_Std_GetDesc_DevQlfy
+                0x00001178       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001178                On_EpReg1_Std_GetDesc_DevQlfy
+ .text.On_EpReg1_Std_GetDesc_OthSpeedCfg
+                0x00001198       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001198                On_EpReg1_Std_GetDesc_OthSpeedCfg
+ .text.On_EpReg1_Std_GetDesc_IntfPwr
+                0x000011b8       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000011b8                On_EpReg1_Std_GetDesc_IntfPwr
+ .text.On_EpReg1_Std_GetDesc_Otg
+                0x000011d8       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000011d8                On_EpReg1_Std_GetDesc_Otg
+ .text.On_EpReg1_Std_GetDesc_Debug
+                0x000011f8       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000011f8                On_EpReg1_Std_GetDesc_Debug
+ .text.On_EpReg1_Std_GetDesc_IntfAssoc
+                0x00001218       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001218                On_EpReg1_Std_GetDesc_IntfAssoc
+ .text.On_EpReg1_Std_GetDesc
+                0x00001238       0xa4 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001238                On_EpReg1_Std_GetDesc
+ .text.On_EpReg1_Std_SetDesc
+                0x000012dc       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000012dc                On_EpReg1_Std_SetDesc
+ .text.On_EpReg1_Std_GetConfig
+                0x000012fc       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x000012fc                On_EpReg1_Std_GetConfig
+ .text.On_EpReg1_Std_SetConfig
+                0x0000131c       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x0000131c                On_EpReg1_Std_SetConfig
+ .text.On_EpReg1_Std_GetIntf
+                0x0000133c       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x0000133c                On_EpReg1_Std_GetIntf
+ .text.On_EpReg1_Std_SetIntf
+                0x0000135c       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x0000135c                On_EpReg1_Std_SetIntf
+ .text.On_EpReg1_Std_SyncFrame
+                0x0000137c       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x0000137c                On_EpReg1_Std_SyncFrame
+ .text.On_EpReg1_StdReq
+                0x0000139c       0x98 D:\TMP\Usr\cc7tOrbQ.o
+                0x0000139c                On_EpReg1_StdReq
+ .text.On_EpReg1_ClsReq
+                0x00001434       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001434                On_EpReg1_ClsReq
+ .text.On_EpReg1_VendReq
+                0x00001454       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001454                On_EpReg1_VendReq
+ .text.On_EpReg1_RsvdReq
+                0x00001474       0x20 D:\TMP\Usr\cc7tOrbQ.o
+                0x00001474                On_EpReg1_RsvdReq
+ .text.On_Stp_Std_GetStat
+                0x00001494       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x00001494                On_Stp_Std_GetStat
+ .text.On_Stp_Std_ClrFeat
+                0x000014b4       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000014b4                On_Stp_Std_ClrFeat
+ .text.On_Stp_Std_SetFeat
+                0x000014d4       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000014d4                On_Stp_Std_SetFeat
+ .text.On_Stp_Std_SetAddr
+                0x000014f4       0x48 D:\TMP\Usr\cc9pzA6V.o
+                0x000014f4                On_Stp_Std_SetAddr
+ .text.On_Stp_Std_GetDesc_Dev
+                0x0000153c       0x70 D:\TMP\Usr\cc9pzA6V.o
+                0x0000153c                On_Stp_Std_GetDesc_Dev
+ .text.On_Stp_Std_GetDesc_Config
+                0x000015ac       0xa4 D:\TMP\Usr\cc9pzA6V.o
+                0x000015ac                On_Stp_Std_GetDesc_Config
+ .text.On_Stp_Std_GetDesc_String
+                0x00001650       0xfc D:\TMP\Usr\cc9pzA6V.o
+                0x00001650                On_Stp_Std_GetDesc_String
+ .text.On_Stp_Std_GetDesc_Intf
+                0x0000174c       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x0000174c                On_Stp_Std_GetDesc_Intf
+ .text.On_Stp_Std_GetDesc_EndPoint
+                0x0000176c       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x0000176c                On_Stp_Std_GetDesc_EndPoint
+ .text.On_Stp_Std_GetDesc_DevQlfy
+                0x0000178c       0x40 D:\TMP\Usr\cc9pzA6V.o
+                0x0000178c                On_Stp_Std_GetDesc_DevQlfy
+ .text.On_Stp_Std_GetDesc_OthSpeedCfg
+                0x000017cc       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000017cc                On_Stp_Std_GetDesc_OthSpeedCfg
+ .text.On_Stp_Std_GetDesc_IntfPwr
+                0x000017ec       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000017ec                On_Stp_Std_GetDesc_IntfPwr
+ .text.On_Stp_Std_GetDesc_Otg
+                0x0000180c       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x0000180c                On_Stp_Std_GetDesc_Otg
+ .text.On_Stp_Std_GetDesc_Debug
+                0x0000182c       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x0000182c                On_Stp_Std_GetDesc_Debug
+ .text.On_Stp_Std_GetDesc_IntfAssoc
+                0x0000184c       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x0000184c                On_Stp_Std_GetDesc_IntfAssoc
+ .text.On_Stp_Std_GetDesc
+                0x0000186c       0xac D:\TMP\Usr\cc9pzA6V.o
+                0x0000186c                On_Stp_Std_GetDesc
+ .text.On_Stp_Std_SetDesc
+                0x00001918       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x00001918                On_Stp_Std_SetDesc
+ .text.On_Stp_Std_GetConfig
+                0x00001938       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x00001938                On_Stp_Std_GetConfig
+ .text.On_Stp_Std_SetConfig
+                0x00001958       0x4c D:\TMP\Usr\cc9pzA6V.o
+                0x00001958                On_Stp_Std_SetConfig
+ .text.On_Stp_Std_GetIntf
+                0x000019a4       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000019a4                On_Stp_Std_GetIntf
+ .text.On_Stp_Std_SetIntf
+                0x000019c4       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000019c4                On_Stp_Std_SetIntf
+ .text.On_Stp_Std_SyncFrame
+                0x000019e4       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x000019e4                On_Stp_Std_SyncFrame
+ .text.On_Stp_StdReq
+                0x00001a04       0x9c D:\TMP\Usr\cc9pzA6V.o
+                0x00001a04                On_Stp_StdReq
+ .text.On_Stp_ClsReq
+                0x00001aa0       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x00001aa0                On_Stp_ClsReq
+ .text.On_Stp_VendReq
+                0x00001ac0       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x00001ac0                On_Stp_VendReq
+ .text.On_Stp_RsvdReq
+                0x00001ae0       0x20 D:\TMP\Usr\cc9pzA6V.o
+                0x00001ae0                On_Stp_RsvdReq
+ .text.InitUsbCtrl
+                0x00001b00       0x50 D:\TMP\Usr\cc7V9NVh.o
+                0x00001b00                InitUsbCtrl
+ .text.MainLoop
+                0x00001b50       0xe4 D:\TMP\Usr\cc7V9NVh.o
+                0x00001b50                MainLoop
+ .text.ResetHandler
+                0x00001c34       0x64 D:\TMP\Usr\cc7V9NVh.o
+                0x00001c34                ResetHandler
+ .text          0x00001c98      0x114 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                0x00001c98                __aeabi_uidiv
+                0x00001c98                __udivsi3
+                0x00001da4                __aeabi_uidivmod
+ .text          0x00001dac        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                0x00001dac                __aeabi_idiv0
+                0x00001dac                __aeabi_ldiv0
+
+.glue_7         0x00001db0        0x0
+ .glue_7        0x00001db0        0x0 linker stubs
+
+.glue_7t        0x00001db0        0x0
+ .glue_7t       0x00001db0        0x0 linker stubs
+
+.vfp11_veneer   0x00001db0        0x0
+ .vfp11_veneer  0x00001db0        0x0 linker stubs
+
+.v4_bx          0x00001db0        0x0
+ .v4_bx         0x00001db0        0x0 linker stubs
+
+.init           0x00001db0        0x4
+ .init          0x00001db0        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+                0x00001db0                _init
+
+.fini           0x00001db4        0x4
+ .fini          0x00001db4        0x4 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+                0x00001db4                _fini
+
+.rodata         0x00001db8      0xf5d
+ .rodata        0x00001db8      0x18b D:\TMP\Usr\ccqBRKvg.o
+ *fill*         0x00001f43        0x1 
+ .rodata        0x00001f44       0x20 D:\TMP\Usr\ccCaSWcG.o
+ .rodata        0x00001f64      0x195 D:\TMP\Usr\ccpKw1v0.o
+ *fill*         0x000020f9        0x3 
+ .rodata        0x000020fc      0x392 D:\TMP\Usr\ccoejbAp.o
+ *fill*         0x0000248e        0x2 
+ .rodata        0x00002490      0x37a D:\TMP\Usr\cc7tOrbQ.o
+ *fill*         0x0000280a        0x2 
+ .rodata        0x0000280c      0x3b7 D:\TMP\Usr\cc9pzA6V.o
+ *fill*         0x00002bc3        0x1 
+ .rodata        0x00002bc4       0x76 D:\TMP\Usr\ccosrMlB.o
+                0x00002bc4                gDevDesc
+                0x00002bd8                gCfgDesc
+                0x00002bfc                gLangId
+                0x00002c00                gMfcStr
+                0x00002c10                gProdStr
+                0x00002c28                gSerStr
+ *fill*         0x00002c3a        0x2 
+ .rodata        0x00002c3c       0xd9 D:\TMP\Usr\cc7V9NVh.o
+
+.iplt           0x00002d18        0x0
+ .iplt          0x00002d18        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+
+.igot.plt       0x00002d18        0x0
+ .igot.plt      0x00002d18        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+
+.data           0x00002d18        0x8
+ .data          0x00002d18        0x4 D:\TMP\Usr\ccpKw1v0.o
+                0x00002d18                gpStp
+ .data          0x00002d1c        0x4 D:\TMP\Usr\cc9pzA6V.o
+                0x00002d1c                gpEp0Buf
+
+.rel.dyn        0x00002d20        0x0
+ .rel.iplt      0x00002d20        0x0 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtbegin.o
+
+.bss
+ *(.bss .bss.*)
+LOAD D:\TMP\Usr\ccqBRKvg.o
+LOAD D:\TMP\Usr\ccpl4fYq.o
+LOAD D:\TMP\Usr\ccCaSWcG.o
+LOAD D:\TMP\Usr\ccpKw1v0.o
+LOAD D:\TMP\Usr\ccoejbAp.o
+LOAD D:\TMP\Usr\cc7tOrbQ.o
+LOAD D:\TMP\Usr\ccELBfOm.o
+LOAD D:\TMP\Usr\cc9pzA6V.o
+LOAD D:\TMP\Usr\ccosrMlB.o
+LOAD D:\TMP\Usr\cc7V9NVh.o
+START GROUP
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libg.a
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a
+END GROUP
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtend.o
+LOAD d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crtn.o
+OUTPUT(D:\Microcontroller\GenHid_05\DtNuc120_GenHid_05\Bin\DtNuc120_GenHid_05.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x31 D:\TMP\Usr\ccqBRKvg.o
+ .ARM.attributes
+                0x0000004f       0x31 D:\TMP\Usr\ccpl4fYq.o
+ .ARM.attributes
+                0x00000080       0x31 D:\TMP\Usr\ccCaSWcG.o
+ .ARM.attributes
+                0x000000b1       0x31 D:\TMP\Usr\ccpKw1v0.o
+ .ARM.attributes
+                0x000000e2       0x31 D:\TMP\Usr\ccoejbAp.o
+ .ARM.attributes
+                0x00000113       0x31 D:\TMP\Usr\cc7tOrbQ.o
+ .ARM.attributes
+                0x00000144       0x31 D:\TMP\Usr\cc9pzA6V.o
+ .ARM.attributes
+                0x00000175       0x31 D:\TMP\Usr\ccosrMlB.o
+ .ARM.attributes
+                0x000001a6       0x31 D:\TMP\Usr\cc7V9NVh.o
+ .ARM.attributes
+                0x000001d7       0x1e d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000001f5       0x1e d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e D:\TMP\Usr\ccqBRKvg.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f D:\TMP\Usr\ccpl4fYq.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\ccCaSWcG.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\ccpKw1v0.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\ccoejbAp.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\cc7tOrbQ.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\cc9pzA6V.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\ccosrMlB.o
+ .comment       0x0000006e       0x6f D:\TMP\Usr\cc7V9NVh.o
+
+.debug_info     0x00000000     0x1e52
+ .debug_info    0x00000000      0x3c7 D:\TMP\Usr\ccqBRKvg.o
+ .debug_info    0x000003c7      0x1e1 D:\TMP\Usr\ccpl4fYq.o
+ .debug_info    0x000005a8      0x115 D:\TMP\Usr\ccCaSWcG.o
+ .debug_info    0x000006bd      0x301 D:\TMP\Usr\ccpKw1v0.o
+ .debug_info    0x000009be      0x5a0 D:\TMP\Usr\ccoejbAp.o
+ .debug_info    0x00000f5e      0x58c D:\TMP\Usr\cc7tOrbQ.o
+ .debug_info    0x000014ea      0x709 D:\TMP\Usr\cc9pzA6V.o
+ .debug_info    0x00001bf3      0x123 D:\TMP\Usr\ccosrMlB.o
+ .debug_info    0x00001d16      0x13c D:\TMP\Usr\cc7V9NVh.o
+
+.debug_abbrev   0x00000000      0x763
+ .debug_abbrev  0x00000000      0x13f D:\TMP\Usr\ccqBRKvg.o
+ .debug_abbrev  0x0000013f       0x8e D:\TMP\Usr\ccpl4fYq.o
+ .debug_abbrev  0x000001cd       0x9d D:\TMP\Usr\ccCaSWcG.o
+ .debug_abbrev  0x0000026a       0xe1 D:\TMP\Usr\ccpKw1v0.o
+ .debug_abbrev  0x0000034b       0xe8 D:\TMP\Usr\ccoejbAp.o
+ .debug_abbrev  0x00000433       0xe8 D:\TMP\Usr\cc7tOrbQ.o
+ .debug_abbrev  0x0000051b      0x10d D:\TMP\Usr\cc9pzA6V.o
+ .debug_abbrev  0x00000628       0x5b D:\TMP\Usr\ccosrMlB.o
+ .debug_abbrev  0x00000683       0xe0 D:\TMP\Usr\cc7V9NVh.o
+
+.debug_aranges  0x00000000      0x438
+ .debug_aranges
+                0x00000000       0x60 D:\TMP\Usr\ccqBRKvg.o
+ .debug_aranges
+                0x00000060       0x38 D:\TMP\Usr\ccpl4fYq.o
+ .debug_aranges
+                0x00000098       0x28 D:\TMP\Usr\ccCaSWcG.o
+ .debug_aranges
+                0x000000c0       0x70 D:\TMP\Usr\ccpKw1v0.o
+ .debug_aranges
+                0x00000130       0xe8 D:\TMP\Usr\ccoejbAp.o
+ .debug_aranges
+                0x00000218       0xe8 D:\TMP\Usr\cc7tOrbQ.o
+ .debug_aranges
+                0x00000300       0xe8 D:\TMP\Usr\cc9pzA6V.o
+ .debug_aranges
+                0x000003e8       0x18 D:\TMP\Usr\ccosrMlB.o
+ .debug_aranges
+                0x00000400       0x38 D:\TMP\Usr\cc7V9NVh.o
+
+.debug_ranges   0x00000000      0x3a0
+ .debug_ranges  0x00000000       0x50 D:\TMP\Usr\ccqBRKvg.o
+ .debug_ranges  0x00000050       0x28 D:\TMP\Usr\ccpl4fYq.o
+ .debug_ranges  0x00000078       0x18 D:\TMP\Usr\ccCaSWcG.o
+ .debug_ranges  0x00000090       0x60 D:\TMP\Usr\ccpKw1v0.o
+ .debug_ranges  0x000000f0       0xd8 D:\TMP\Usr\ccoejbAp.o
+ .debug_ranges  0x000001c8       0xd8 D:\TMP\Usr\cc7tOrbQ.o
+ .debug_ranges  0x000002a0       0xd8 D:\TMP\Usr\cc9pzA6V.o
+ .debug_ranges  0x00000378       0x28 D:\TMP\Usr\cc7V9NVh.o
+
+.debug_line     0x00000000     0x102a
+ .debug_line    0x00000000      0x26e D:\TMP\Usr\ccqBRKvg.o
+ .debug_line    0x0000026e      0x122 D:\TMP\Usr\ccpl4fYq.o
+ .debug_line    0x00000390       0xe1 D:\TMP\Usr\ccCaSWcG.o
+ .debug_line    0x00000471      0x1c3 D:\TMP\Usr\ccpKw1v0.o
+ .debug_line    0x00000634      0x2d2 D:\TMP\Usr\ccoejbAp.o
+ .debug_line    0x00000906      0x2c7 D:\TMP\Usr\cc7tOrbQ.o
+ .debug_line    0x00000bcd      0x2fa D:\TMP\Usr\cc9pzA6V.o
+ .debug_line    0x00000ec7       0x7a D:\TMP\Usr\ccosrMlB.o
+ .debug_line    0x00000f41       0xe9 D:\TMP\Usr\cc7V9NVh.o
+
+.debug_str      0x00000000      0xdcc
+ .debug_str     0x00000000      0x21e D:\TMP\Usr\ccqBRKvg.o
+                                0x23d (size before relaxing)
+ .debug_str     0x0000021e       0x9d D:\TMP\Usr\ccpl4fYq.o
+                                0x17b (size before relaxing)
+ .debug_str     0x000002bb       0x9e D:\TMP\Usr\ccCaSWcG.o
+                                0x168 (size before relaxing)
+ .debug_str     0x00000359      0x11d D:\TMP\Usr\ccpKw1v0.o
+                                0x1ea (size before relaxing)
+ .debug_str     0x00000476      0x2b7 D:\TMP\Usr\ccoejbAp.o
+                                0x3da (size before relaxing)
+ .debug_str     0x0000072d      0x2ad D:\TMP\Usr\cc7tOrbQ.o
+                                0x3cd (size before relaxing)
+ .debug_str     0x000009da      0x35b D:\TMP\Usr\cc9pzA6V.o
+                                0x4ab (size before relaxing)
+ .debug_str     0x00000d35       0x2c D:\TMP\Usr\ccosrMlB.o
+                                0x11f (size before relaxing)
+ .debug_str     0x00000d61       0x6b D:\TMP\Usr\cc7V9NVh.o
+                                0x146 (size before relaxing)
+
+.debug_frame    0x00000000      0xcd8
+ .debug_frame   0x00000000      0x12c D:\TMP\Usr\ccqBRKvg.o
+ .debug_frame   0x0000012c       0x90 D:\TMP\Usr\ccpl4fYq.o
+ .debug_frame   0x000001bc       0x50 D:\TMP\Usr\ccCaSWcG.o
+ .debug_frame   0x0000020c      0x154 D:\TMP\Usr\ccpKw1v0.o
+ .debug_frame   0x00000360      0x2ec D:\TMP\Usr\ccoejbAp.o
+ .debug_frame   0x0000064c      0x2ec D:\TMP\Usr\cc7tOrbQ.o
+ .debug_frame   0x00000938      0x2f4 D:\TMP\Usr\cc9pzA6V.o
+ .debug_frame   0x00000c2c       0x8c D:\TMP\Usr\cc7V9NVh.o
+ .debug_frame   0x00000cb8       0x20 d:/microcontroller/gcc-arm/bin/../lib/gcc/arm-none-eabi/6.2.1/thumb/v6-m\libgcc.a(_udivsi3.o)

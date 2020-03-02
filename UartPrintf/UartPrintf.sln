@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nuc120_Printf", "Nuc120_Printf\Nuc120_Printf.vcproj", "{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stm32f103_Printf", "Stm32f103_Printf\Stm32f103_Printf.vcproj", "{3142FFCB-0D37-48CC-859D-D953D1D26F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Debug-ARM|ARM = Debug-ARM|ARM
+		Debug-ARM|Win32 = Debug-ARM|Win32
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+		Release-ARM|ARM = Release-ARM|ARM
+		Release-ARM|Win32 = Release-ARM|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Debug|ARM.ActiveCfg = Debug|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Debug|Win32.Build.0 = Debug|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Debug-ARM|ARM.ActiveCfg = Debug-ARM|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Debug-ARM|Win32.ActiveCfg = Debug-ARM|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Debug-ARM|Win32.Build.0 = Debug-ARM|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Release|ARM.ActiveCfg = Release|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Release|Win32.ActiveCfg = Release|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Release|Win32.Build.0 = Release|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Release-ARM|ARM.ActiveCfg = Release-ARM|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Release-ARM|Win32.ActiveCfg = Release-ARM|Win32
+		{ABB83FC7-F671-4791-BE2C-CB7A98D664D3}.Release-ARM|Win32.Build.0 = Release-ARM|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Debug|ARM.ActiveCfg = Debug|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Debug|Win32.Build.0 = Debug|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Debug-ARM|ARM.ActiveCfg = Debug-ARM|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Debug-ARM|Win32.ActiveCfg = Debug-ARM|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Debug-ARM|Win32.Build.0 = Debug-ARM|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Release|ARM.ActiveCfg = Release|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Release|Win32.ActiveCfg = Release|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Release|Win32.Build.0 = Release|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Release-ARM|ARM.ActiveCfg = Release-ARM|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Release-ARM|Win32.ActiveCfg = Release-ARM|Win32
+		{3142FFCB-0D37-48CC-859D-D953D1D26F40}.Release-ARM|Win32.Build.0 = Release-ARM|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

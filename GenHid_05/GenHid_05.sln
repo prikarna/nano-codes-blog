@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DtNuc120_GenHid_05", "DtNuc120_GenHid_05\DtNuc120_GenHid_05.vcproj", "{DA8E62EF-5F8F-4277-A1E3-CC57153270A9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stm32f103_GenHid_05", "Stm32f103_GenHid_05\Stm32f103_GenHid_05.vcproj", "{8F6FC13B-243A-4F27-95FC-37FDFABBDC69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8E62EF-5F8F-4277-A1E3-CC57153270A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA8E62EF-5F8F-4277-A1E3-CC57153270A9}.Debug|Win32.Build.0 = Debug|Win32
+		{DA8E62EF-5F8F-4277-A1E3-CC57153270A9}.Release|Win32.ActiveCfg = Release|Win32
+		{DA8E62EF-5F8F-4277-A1E3-CC57153270A9}.Release|Win32.Build.0 = Release|Win32
+		{8F6FC13B-243A-4F27-95FC-37FDFABBDC69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F6FC13B-243A-4F27-95FC-37FDFABBDC69}.Debug|Win32.Build.0 = Debug|Win32
+		{8F6FC13B-243A-4F27-95FC-37FDFABBDC69}.Release|Win32.ActiveCfg = Release|Win32
+		{8F6FC13B-243A-4F27-95FC-37FDFABBDC69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
