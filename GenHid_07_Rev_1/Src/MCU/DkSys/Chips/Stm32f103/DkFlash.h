@@ -1,0 +1,35 @@
+﻿#ifndef DK_FLASH_H
+#define DK_FLASH_H
+
+#include "DkSys.h"
+
+#define FLASH_ACR				0x40022000		// 0x4002 2003 4
+#define FLASH_KEYR				0x40022004		// 0x4002 2007 4
+#define FLASH_OPTKEYR			0x40022008		// 0x4002 200B 4
+#define FLASH_SR				0x4002200C		// 0x4002 200F 4
+#define FLASH_CR				0x40022010		// 0x4002 2013 4
+#define FLASH_AR				0x40022014		// 0x4002 2017 4
+#define FLASH_Reserved			0x40022018		// 0x4002 201B 4
+#define FLASH_OBR				0x4002201C		// 0x4002 201F 4
+#define FLASH_WRPR				0x40022020		// 0x4002 2023 4
+
+#define FLASH_PREF_BUF_STAT_EN			BIT_HEX_5
+#define FLASH_PREF_BUF_EN				BIT_HEX_4
+#define FLASH_HALF_CYCL_EN				BIT_HEX_3
+
+#define FLASH_GET_PREF_BUF_STAT()		(IO_MMAP(FLASH_ACR) & FLASH_PREF_BUF_STAT_EN) ? 1 : 0
+
+#define FLASH_ENA_PREF_BUF(Ena)			\
+	(Ena) ? (IO_MMAP(FLASH_ACR) |= FLASH_PREF_BUF_EN) : (IO_MMAP(FLASH_ACR) &= ~FLASH_PREF_BUF_EN)
+
+#define FLASH_ENA_HALF_CYCL(Ena)		\
+	(Ena) ? (IO_MMAP(FLASH_ACR) |= FLASH_HALF_CYCL_EN) : (IO_MMAP(FLASH_ACR) &= ~FLASH_HALF_CYCL_EN)
+
+#define FLASH_LATENCY_ZERO_WAIT_STATE		0x00		// 000 Zero wait state, if 0 < SYSCLK≤ 24 MHz
+#define FLASH_LATENCY_ONE_WAIT_STATE		0x01		// 001 One wait state, if 24 MHz < SYSCLK ≤ 48 MHz
+#define FLASH_LATENCY_TWO_WAIT_STATE		0x02		// 010 Two wait states, if 48 MHz < SYSCLK ≤ 72 MHz
+
+#define FLASH_SET_LATENCY(FlashLatency)		\
+	IO_MMAP(FLASH_ACR) = (IO_MMAP(FLASH_ACR) & ~(0x7)) | (FlashLatency & 0x7)
+
+#endif   // End of DK_FLASH_H
