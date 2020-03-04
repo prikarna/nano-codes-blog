@@ -1,0 +1,91 @@
+#
+# Manual build for ARM processor based device
+# "3 stages compile" makefile
+#
+
+CORT_VER			= m0
+TGT_CPU				= arm_cortex_$(CORT_VER)
+PROJ_NAME			= ErrMini
+
+!MESSAGE ****Build for $(TGT_CPU) based device program ($(PROJ_NAME).bin)
+
+SOLUTION_DIR		= D:\Microcontroller\DtNuc120_ErrMini
+PROJ_DIR			= $(SOLUTION_DIR)\$(PROJ_NAME)
+GCC_BIN_DIR			= D:\Microcontroller\gcc-arm\bin
+OBJ_DIR				= $(PROJ_DIR)\Obj
+
+TGT					= $(PROJ_NAME).bin
+ELF					= $(PROJ_NAME).elf
+
+SRCS				= \
+					  $(PROJ_DIR)\CMSIS.c\
+					  $(PROJ_DIR)\Main.c
+
+OBJS				= \
+					  $(OBJ_DIR)\CMSIS.o\
+					  $(OBJ_DIR)\Main.o
+					  
+PATH				= $(GCC_BIN_DIR);$(PATH)
+
+CC					= arm-none-eabi-gcc.exe
+
+CC_OPT				= \
+!IFDEF _DEBUG
+					  -Wall\
+					  -D_DEBUG\
+					  -g\
+!ENDIF
+					  -mcpu=cortex-$(CORT_VER)\
+					  -mthumb\
+					  -ffunction-sections\
+					  -isystem $(SOLUTION_DIR)\DkSys\
+					  -O0\
+					  -c
+			  
+LNK					= arm-none-eabi-ld.exe
+
+LNK_OPT				= \
+!IFDEF _DEBUG
+					  -Map=$(PROJ_DIR)\Obj\$(PROJ_NAME).map\
+!ENDIF
+					  -O0\
+					  --gc-sections\
+					  -L$(GCC_BIN_DIR)\..\lib\gcc\arm-none-eabi\6.2.1\thumb\v6-m\
+					  -L$(GCC_BIN_DIR)\..\arm-none-eabi\lib\thumb\v6-m\
+					  -T$(PROJ_DIR)\$(PROJ_NAME).ld
+
+LNK_OPT_EXT			= \
+					  -lgcc\
+					  -lg\
+					  -lc
+
+GEN_BIN				= arm-none-eabi-objcopy.exe
+GEN_BIN_OPT			= -Obinary
+
+all			: $(TGT)
+
+prep		:
+	@echo Preparing...
+	@if not exist "$(PROJ_DIR)\Bin" mkdir "$(PROJ_DIR)\Bin"
+	@if not exist "$(OBJ_DIR)" mkdir "$(OBJ_DIR)"
+
+$(SRCS)		: prep
+	@echo Compiling $@...
+	@cd "$(OBJ_DIR)"
+	$(CC) $(CC_OPT) $@
+	@cd ..
+	
+$(ELF)		: $(SRCS)
+	@echo Linking...
+	$(LNK) $(LNK_OPT) -o $(PROJ_DIR)\Bin\$(ELF) $(OBJS) $(LNK_OPT_EXT)
+	
+$(TGT)		: $(ELF)
+	@echo Generating binary...
+	$(GEN_BIN) $(GEN_BIN_OPT) $(PROJ_DIR)\Bin\$(ELF) $(PROJ_DIR)\Bin\$(TGT) 
+
+clean		:
+	@echo Cleaning up...
+	@if exist "$(PROJ_DIR)\Bin" erase /S /Q "$(PROJ_DIR)\Bin\*.*"
+	@if exist "$(OBJ_DIR)" erase /S /Q "$(OBJ_DIR)\*.*"
+
+rebuild		: clean all
